@@ -1,0 +1,1650 @@
+@media screen and (max-width: 1920px) {
+    .hero-banner-platform-img {
+        margin-right: -18%;
+        width: 66%;
+    }
+}
+
+@media screen and (max-width: 1800px) {
+    .hero-banner-platform-img {
+        margin-right: -13%;
+        width: 63%;
+    }
+
+    .hero-banner-platform-main {
+        gap: 80px;
+        padding-bottom: 80px;
+    }
+}
+
+@media screen and (max-width: 1700px) {
+    .ai-power-img-2 {
+        right: -80px;
+    }
+
+    .hero-banner-platform-img {
+        margin-right: -10%;
+        width: 60%;
+    }
+
+    .hero-banner-platform-main {
+        gap: 70px;
+        padding-bottom: 60px;
+    }
+
+    .gap-eighty {
+        gap: 70px;
+    }
+
+    .ai-power-img-3 {
+        left: -70px;
+    }
+
+}
+
+@media screen and (max-width: 1600px) {
+
+    .healthcare-rigth-img {
+        width: 50%;
+    }
+
+    .navbar-links a {
+        font-size: 19px;
+    }
+
+    .btn {
+        font-size: 17px;
+    }
+
+    .gap-thirty {
+        gap: 25px;
+    }
+
+    .choose-us {
+        padding-top: 170px;
+    }
+
+    .navbar-right,
+    .header-main {
+        gap: 80px;
+    }
+
+    .footer-right {
+        gap: 50px;
+    }
+
+    .choose-us-main {
+        padding: 60px;
+    }
+
+    .choose-us-right {
+        width: 51.82%;
+        margin-right: -60px;
+        margin-bottom: -60px;
+    }
+
+    .hero-banner-img img {
+        object-position: left;
+    }
+
+    .leadership-img-contain h2.title-h1 {
+        font-size: 55px;
+    }
+
+    .leadership-img {
+        position: relative;
+        padding: 59.94% 0%;
+    }
+
+    .mediqm-right img {
+        object-position: left;
+    }
+
+    .gap-hundred {
+        gap: 90px;
+    }
+
+    .learn-more-img {
+        width: 62.237%;
+    }
+
+    .ai-power-img-2 {
+        right: -50px;
+    }
+
+    .gap-ninety {
+        gap: 80px;
+    }
+
+    .hero-banner-platform-img {
+        margin-right: -8%;
+        width: 57%;
+    }
+
+    .hero-banner-platform-main {
+        gap: 60px;
+        padding-bottom: 50px;
+    }
+
+    .ai-power-img-3 {
+        width: 38%;
+        left: -40px;
+        bottom: 40px;
+    }
+
+    h1,
+    .title-h1 {
+        font-size: 58px;
+    }
+
+    .audit-managment-main h2 {
+        width: 41.1%;
+    }
+
+    .audit-managment-main .heading-top {
+        display: flex;
+        gap: 150px;
+    }
+
+    .blog-news-section {
+        padding-top: 210px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+
+    .container,
+    .max-container {
+        padding: 0px 45px;
+    }
+
+    .header-main,
+    .innovative-details-box,
+    .healthcare-cards {
+        padding: 25px;
+    }
+
+    .btn,
+    .navbar-links a {
+        font-size: 16px;
+    }
+
+    .title-h1,
+    span {
+        font-size: 52px;
+    }
+
+    .healthcare-rigth-img {
+        width: 52%;
+    }
+
+    .data-analytics .heading-top {
+        padding: 100px 80px;
+    }
+
+    h3,
+    .title-h3 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    h3.small-h3 {
+        font-size: 23px;
+        line-height: 25px;
+    }
+
+    .choose-us {
+        padding-top: 150px;
+    }
+
+    .padding-top-one-twenty {
+        padding-top: 100px;
+    }
+
+    .hero-banner-main {
+        padding-bottom: 90px;
+    }
+
+    .gap-sixty {
+        gap: 50px;
+    }
+
+    .gap-sixteen {
+        gap: 14px;
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .healthcare-top .heading-top {
+        gap: 8px;
+    }
+
+    .footer-links a,
+    .address-details p {
+        font-size: 16px;
+    }
+
+    .leadership-img {
+        padding: 63.6% 0%;
+    }
+
+    .leadership-img-contain h2.title-h1 {
+        font-size: 50px;
+    }
+
+    .gap-hundred {
+        gap: 80px;
+    }
+
+    .learn-more-img {
+        margin-right: -170px;
+    }
+
+    .ai-power-img-2 {
+        right: -45px;
+    }
+
+    .gap-hundred {
+        gap: 70px;
+    }
+
+    .admission-list {
+        padding: 15px 15px 15px 45px;
+    }
+
+    .padding-both-one-twenty {
+        padding: 100px 0px;
+    }
+
+    .audit-managment-main {
+        gap: 30px;
+    }
+
+    .features-right {
+        width: 49.084%;
+        padding-top: 46.237%;
+    }
+
+    .mediqm-details {
+        padding: 20px;
+    }
+
+    .gap-eighty {
+        gap: 55px;
+    }
+
+    .features-left {
+        gap: 20px;
+    }
+
+    .audit-managment-main .heading-top {
+        gap: 140px;
+    }
+
+    .phone-input select {
+        width: 6%;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+
+    .hero-banner-main h1,
+    .innovation-solution-main h2 {
+        line-height: 110%;
+    }
+
+    .small-p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    h3.small-h3 {
+        font-size: 21px;
+        line-height: 20px;
+    }
+
+    .hero-banner-main {
+        padding-bottom: 80px;
+    }
+
+    .navbar-right,
+    .header-main {
+        gap: 75px;
+    }
+
+    .btn,
+    .navbar-links a {
+        font-size: 15px;
+    }
+
+    .header-main {
+        padding: 20px;
+    }
+
+    .gap-thirty {
+        gap: 20px;
+    }
+
+    .padding-both-one-twenty {
+        padding: 100px 0px;
+    }
+
+    .gap-sixty {
+        gap: 40px;
+    }
+
+    .gap-sixteen {
+        gap: 12px;
+    }
+
+    .title-h1,
+    span {
+        font-size: 48px;
+        line-height: 110%;
+    }
+
+    p,
+    .form-section p,
+    .white-btn {
+        font-size: 16px;
+    }
+
+    .healthcare-cards-logo,
+    .innovative-img {
+        width: 75px;
+        height: 75px;
+    }
+
+    .gap-eighty {
+        gap: 40px;
+    }
+
+    .our-team-swiper {
+        padding-top: 60px;
+    }
+
+    .footer-main,
+    .footer-left {
+        gap: 40px;
+    }
+
+    .choose-us-main {
+        padding: 50px;
+    }
+
+    .choose-us-right {
+        margin-right: -50px;
+        margin-bottom: -50px;
+    }
+
+    .leadership-img-contain h2.title-h1 {
+        font-size: 46px;
+    }
+
+    .leadership-img {
+        padding: 63% 0%;
+    }
+
+    .learn-more-img {
+        width: 62.237%;
+        margin-right: -160px;
+    }
+
+    .big-h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .audit-managment-main .heading-top {
+        gap: 120px;
+    }
+
+    .hero-banner-platform-main {
+        gap: 50px;
+        padding-bottom: 40px;
+    }
+
+    .contact-us-section,
+    .support-section {
+        padding-top: 200px;
+    }
+
+    .blog-news-section {
+        padding-top: 180px;
+    }
+
+    .features-right {
+        padding-top: 54.237%;
+    }
+
+    .learn-more-main {
+        padding-left: 70px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+
+    .title-h1,
+    span {
+        font-size: 42px;
+    }
+
+    .padding-both-one-twenty {
+        padding: 90px 0px;
+    }
+
+    .hero-banner-main {
+        padding-bottom: 70px;
+    }
+
+    .healthcare-cards-logo,
+    .innovative-img {
+        width: 60px;
+        height: 60px;
+        padding: 10px;
+    }
+
+    .gap-sixteen {
+        gap: 16px;
+    }
+
+    h3,
+    .title-h3 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .gap-eighty {
+        gap: 50px;
+    }
+
+    .gap-sixty {
+        gap: 30px;
+    }
+
+    .container,
+    .max-container {
+        padding: 0px 40px;
+    }
+
+    .comman-btn {
+        font-size: 16px;
+        padding: 8px 20px;
+    }
+
+    .btn {
+        padding: 10px 20px;
+    }
+
+    .header-logo {
+        width: 26%;
+    }
+
+    .header-main,
+    .innovative-details-box,
+    .healthcare-cards {
+        padding: 20px;
+    }
+
+    .padding-top-one-twenty {
+        padding-top: 90px;
+    }
+
+    .data-analytics .heading-top {
+        padding: 90px 70px;
+    }
+
+    .footer-left {
+        width: 34%;
+    }
+
+    .navbar-right {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        flex-direction: column;
+        background: var(--white);
+        width: 100%;
+        height: 100vh;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+        opacity: 0;
+        pointer-events: none;
+    }
+
+    .navbar-links {
+        flex-direction: column;
+    }
+
+    .navbar-right.active {
+        opacity: 1;
+        pointer-events: auto;
+        display: flex;
+        overflow: auto;
+        flex-direction: column;
+        padding: 60px;
+    }
+
+    .mobileicon {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        cursor: pointer;
+    }
+
+    .mobileicon span {
+        display: block;
+        width: 25px;
+        height: 2px;
+        background-color: var(--skyblue);
+        border-radius: 2px;
+        transition: 0.3s ease;
+    }
+
+    .no-scroll .header-logo {
+        position: relative;
+        z-index: 9999;
+    }
+
+    /* Hamburger animation */
+    .mobileicon.active span:nth-child(1) {
+        transform: rotate(45deg) translate(4px, 5px);
+    }
+
+    .mobileicon.active span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .mobileicon.active span:nth-child(3) {
+        transform: rotate(-45deg) translate(8px, -9px);
+    }
+
+    .title-h1,
+    span {
+        font-size: 42px;
+    }
+
+    .choose-us-main {
+        padding: 40px;
+    }
+
+    .choose-us-right {
+        margin-right: -40px;
+        margin-bottom: -40px;
+    }
+
+    .community-bottom {
+        padding-top: 50px;
+    }
+
+    h3.small-h3 {
+        font-size: 18px;
+    }
+
+    .leadership-right .choose-us-details {
+        gap: 10px;
+    }
+
+    .leadership-right {
+        gap: 30px;
+    }
+
+    .leadership-img-contain h2.title-h1 {
+        font-size: 39px;
+    }
+
+    .leadership-img {
+        padding: 80% 0%;
+    }
+
+    .gap-hundred {
+        gap: 70px;
+    }
+
+    .learn-more-img {
+        width: 70.237%;
+        margin-right: -160px;
+    }
+
+    .learn-more-main {
+        gap: 25px;
+    }
+
+    .big-h4 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .ai-power-img-2 {
+        width: 46%;
+        right: -40px;
+        bottom: 45px;
+    }
+
+    .gap-ninety {
+        gap: 70px;
+    }
+
+    .gap-one-twenty {
+        gap: 90px;
+    }
+
+    .contact-us-section,
+    .support-section {
+        padding-top: 170px;
+    }
+
+    .padding-bottom-one-twenty {
+        padding-bottom: 100px;
+    }
+
+    .support-details {
+        padding: 24px;
+    }
+
+    .phone-input select {
+        width: 8%;
+    }
+
+    .contact-us-right {
+        width: 45.612%;
+    }
+
+    .contact-us-main {
+        gap: 30px;
+    }
+
+    .contact-us-left {
+        padding: 25px;
+        gap: 30px;
+    }
+
+    .blog-news-section {
+        padding-top: 150px;
+    }
+
+    .audit-managment-main {
+        gap: 20px;
+    }
+
+    .audit-managment-main .heading-top {
+        gap: 100px;
+    }
+
+    .audit-managment-main h2 {
+        width: 42.1%;
+    }
+
+    .learn-more-main {
+        padding-left: 60px;
+    }
+
+    .learn-more-details {
+        padding: 35px 0px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+
+    .title-h1,
+    span {
+        font-size: 36px;
+    }
+
+    .container,
+    .max-container {
+        padding: 0px 35px;
+    }
+
+    .padding-both-one-twenty {
+        padding: 80px 0px;
+    }
+
+    .gap-sixty {
+        gap: 40px;
+    }
+
+    .comman-btn {
+        font-size: 16px;
+    }
+
+    .header-main,
+    .innovative-details-box,
+    .healthcare-cards {
+        padding: 15px;
+    }
+
+    .healthcare-bottom {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .padding-top-one-twenty {
+        padding-top: 70px;
+    }
+
+    .data-analytics .heading-top {
+        padding: 80px 60px;
+    }
+
+    .choose-us-main {
+        flex-direction: column;
+        padding-bottom: 0px;
+    }
+
+    .choose-us-right {
+        width: 80%;
+        margin: 0px auto;
+    }
+
+    .padding-bottom-one-twenty {
+        padding-bottom: 100px;
+    }
+
+    .choose-us {
+        padding-top: 100px;
+    }
+
+    .footer-top,
+    .community-details-main,
+    .healthcare-top.gap-sixty {
+        flex-direction: column;
+    }
+
+    .footer-left {
+        flex-direction: row;
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .footer-right {
+        gap: 40px;
+    }
+
+    .hero-banner-section {
+        aspect-ratio: 10 / 8;
+    }
+
+    .healthcare-rigth-img {
+        width: 70%;
+    }
+
+    .counter-item::before {
+        width: 35px;
+        height: 35px;
+        border-radius: 10px;
+    }
+
+    .hero-banner-main {
+        padding-bottom: 60px;
+    }
+
+    .community-details {
+        text-align: center;
+        width: 100%;
+    }
+
+    .community-img {
+        width: 80%;
+        margin: 0px auto;
+    }
+
+    .leadership-img-contain h2.title-h1 {
+        font-size: 34px;
+    }
+
+    .leadership-img {
+        padding: 100% 0%;
+    }
+
+    .leadership-right {
+        gap: 15px;
+    }
+
+    .heading-top {
+        gap: 10px;
+    }
+
+    h4,
+    .title-h4 {
+        font-size: 16px;
+    }
+
+    h3.small-h3 {
+        font-size: 18px;
+    }
+
+    .choose-us-details {
+        border-radius: 20px;
+        padding: 15px;
+    }
+
+    .choose-details-heading {
+        gap: 8px;
+    }
+
+    .mediqm-right {
+        margin: 0px auto;
+    }
+
+    .mediqm-right {
+        width: 60.1%;
+        position: relative;
+        padding-top: 66.02%;
+    }
+
+    .mediqm-revenue-main,
+    .learn-more-main,
+    .secure-reporting-main,
+    .admission-discharge-main,
+    .key-features-main {
+        flex-direction: column;
+    }
+
+    .patient-care-main,
+    .service-main .patient-care-main:nth-child(even),
+    .audit-managment-bottom {
+        flex-direction: column-reverse;
+    }
+
+    .gap-hundred {
+        gap: 50px;
+    }
+
+    .patient-care-img {
+        width: 70.959%;
+        margin: 0px auto;
+    }
+
+    .learn-more-img {
+        width: 80.237%;
+        margin: 0px auto;
+    }
+
+    .ai-power-img-2 {
+        width: max-content;
+        right: -92px;
+        bottom: 49px;
+    }
+
+    .secure-reporting-contain:nth-child(even) {
+        width: 100%;
+    }
+
+    .ai-base-img {
+        padding-top: 60%;
+    }
+
+    .support-details {
+        padding: 20px;
+    }
+
+    .contact-us-left {
+        padding: 20px;
+        gap: 20px;
+    }
+
+    .form-details {
+        gap: 15px;
+    }
+
+    .blog-news-section {
+        padding-top: 140px;
+    }
+
+    .blogs-news-bottom {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+    }
+
+    .blogs-contain {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+    }
+
+    .hero-banner-platform-main {
+        flex-direction: column;
+        gap: 30px;
+        padding-bottom: 10px;
+    }
+
+    .hero-banner-platform-img {
+        width: 59%;
+        margin: 0px auto;
+    }
+
+    .hero-banner-platform-img img {
+        border-radius: 21.55px;
+    }
+
+    .admission-discharge-right,
+    .audit-managment-img,
+    .get-touch .learn-more-img {
+        width: 70%;
+        margin: 0px auto;
+    }
+
+    .audit-managment-main .heading-top {
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .audit-managment-main h2 {
+        width: 100%;
+    }
+
+    .features-right {
+        width: 80%;
+        margin: 0px auto;
+        padding-top: 70%;
+    }
+
+    .get-touch .learn-more-main {
+        flex-direction: column;
+        padding: 0px 60px;
+    }
+
+    .mediqm-details ul {
+        max-width: 100%;
+    }
+
+    section.hero-banner-section.swiper-container-initialized.swiper-container-vertical {
+        aspect-ratio: 10 / 7;
+    }
+
+    .search-box {
+        width: 65%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+
+    .container,
+    .max-container {
+        padding: 0px 30px;
+    }
+
+    .data-analytics .heading-top {
+        padding: 70px 50px;
+    }
+
+    .healthcare-rigth-img {
+        width: 80%;
+    }
+
+    .padding-both-one-twenty {
+        padding: 70px 0px;
+    }
+
+    .footer-right {
+        gap: 50px;
+    }
+
+    .footer-links a,
+    .address-details p {
+        font-size: 16px;
+    }
+
+    .hero-banner-main {
+        padding-bottom: 50px;
+    }
+
+    .community-details-main {
+        padding: 25px;
+    }
+
+    .community-bottom {
+        padding-top: 40px;
+    }
+
+    .gap-sixty,
+    .footer-right {
+        gap: 30px;
+    }
+
+    .company-profile-main.gap-sixty {
+        flex-direction: column;
+    }
+
+    .company-profile-containt-right {
+        width: 100%;
+        gap: 10px;
+    }
+
+    .our-vision-containt.flex-col.bg-color-light-blue,
+    .contact-us-right {
+        width: 100%;
+    }
+
+    .leadership-main-contain.gap-sixty,
+    .contact-us-main,
+    .vission-mission-contain-bottom.gap-thirty {
+        flex-direction: column;
+    }
+
+    .leadership-img-contain.flex-col {
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+
+    .leadership-img {
+        padding: 58% 0%;
+    }
+
+    .our-vision-containt:nth-child(2) {
+        flex-direction: column;
+    }
+
+    .our-vision-containt {
+        gap: 24px;
+        padding: 25px;
+    }
+
+    .mediqm-right {
+        width: 90%;
+        padding-top: 100%;
+    }
+
+    .mediqm-right img {
+        object-position: top;
+    }
+
+    .patient-care-img,
+    .learn-more-img {
+        width: 90%;
+    }
+
+    .learn-more-main {
+        padding-left: 40px;
+    }
+
+    .ai-power-img-2 {
+        right: -65px;
+    }
+
+    .secure-reporting-contain {
+        padding: 25px;
+    }
+
+    .copyright-section {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .support-bottom {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .contact-us-main {
+        flex-direction: column;
+    }
+
+    .blog-news-section {
+        padding-top: 120px;
+    }
+
+    .admission-discharge-right,
+    .audit-managment-img,
+    .get-touch .learn-more-img {
+        width: 80%;
+        margin: 0px auto;
+    }
+
+    .hero-platform {
+        aspect-ratio: 10 / 9;
+    }
+
+    .arrow {
+        padding-top: 40px;
+    }
+
+    section.hero-banner-section.swiper-container-initialized.swiper-container-vertical {
+        aspect-ratio: 10 / 9;
+    }
+
+    .search-box {
+        width: 80%;
+    }
+
+    .get-touch .learn-more-main {
+        padding: 0px 50px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+    .title-h1,
+    span {
+        font-size: 30px;
+    }
+
+    .small-p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .comman-btn,
+    .btn {
+        font-size: 16px;
+    }
+
+    .healthcare-cards-logo,
+    .innovative-img {
+        width: 60px;
+        height: 60px;
+        padding: 10px;
+    }
+
+    .choose-us {
+        padding-top: 80px;
+    }
+
+    .padding-bottom-one-twenty {
+        padding-bottom: 80px;
+    }
+
+    .innovative-solution-bottom,
+    .healthcare-bottom {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .healthcare-rigth-img {
+        width: 100%;
+    }
+
+    .data-analytics .heading-top {
+        padding: 55px 35px;
+    }
+
+    .padding-top-one-twenty {
+        padding-top: 60px;
+    }
+
+    .padding-both-one-twenty {
+        padding: 60px 0px;
+    }
+
+    .header-main,
+    .innovative-details-box,
+    .healthcare-cards {
+        padding: 10px;
+    }
+
+    .footer-right {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .footer-links a,
+    .address-details p {
+        font-size: 16px;
+    }
+
+    .choose-us-right {
+        width: 100%;
+    }
+
+    .our-vision-containt {
+        gap: 24px;
+        padding: 20px;
+    }
+
+    .hero-banner-img {
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+    }
+
+    .footer-section {
+        border-top-left-radius: 40px;
+        border-top-right-radius: 40px;
+    }
+
+    .profile-img img {
+        border-radius: 25px;
+    }
+
+    .header-main {
+        border-bottom-right-radius: 25px;
+        border-bottom-left-radius: 25px;
+    }
+
+    .mobileicon {
+        height: 18px;
+    }
+
+    .mobileicon span {
+        width: 20px;
+    }
+
+    .gap-ninety {
+        gap: 50px;
+    }
+
+    .ai-power-img-2 {
+        right: -30px;
+        bottom: 40px;
+    }
+
+    .patient-care-img,
+    .learn-more-img {
+        width: 100%;
+    }
+
+    .big-h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .gap-one-twenty {
+        gap: 70px;
+    }
+
+    .ai-base-img {
+        padding-top: 100%;
+    }
+
+    .vertical-pagination {
+        right: 15px !important;
+    }
+
+    .search-box {
+        width: 60.62%;
+    }
+
+    .contact-us-section,
+    .support-section {
+        padding-top: 100px;
+    }
+
+    .hero-platform {
+        aspect-ratio: 11 / 13;
+    }
+
+    .hero-banner-platform-img {
+        width: 80%;
+        margin: 0px auto;
+    }
+
+    .search-box {
+        width: 90%;
+    }
+
+    .get-touch .learn-more-main {
+        padding: 0px 40px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .comman-btn {
+        padding: 6px 14px;
+        font-size: 12px;
+    }
+
+    .btn {
+        padding: 4px 16px;
+        font-size: 12px;
+    }
+
+    .header-logo {
+        width: 30%;
+    }
+
+    .title-h1,
+    span {
+        font-size: 28px;
+    }
+
+    h4,
+    .title-h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .counter-item::before {
+        width: 30px;
+        height: 30px;
+        border-radius: 10px;
+    }
+
+    .container,
+    .max-container {
+        padding: 0px 25px;
+    }
+
+    .healthcare-cards-logo,
+    .innovative-img {
+        width: 50px;
+        height: 50px;
+        padding: 10px;
+    }
+
+    .gap-thirty {
+        gap: 15px;
+    }
+
+    .gap-sixteen {
+        gap: 8px;
+    }
+
+    .padding-bottom-one-twenty {
+        padding-bottom: 70px;
+    }
+
+    .choose-us {
+        padding-top: 70px;
+    }
+
+    .footer-right {
+        gap: 40px;
+    }
+
+    .footer-left {
+        flex-direction: column;
+    }
+
+    .footer-main,
+    .footer-left {
+        gap: 30px;
+    }
+
+    .hero-banner-main {
+        padding-bottom: 40px;
+    }
+
+    .community-bottom {
+        padding-top: 30px;
+    }
+
+    .header-main {
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+
+    .community-img {
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    .footer-logo {
+        width: 40%;
+    }
+
+    .gap-sixty,
+    .footer-right {
+        gap: 20px;
+    }
+
+    .padding-both-one-twenty {
+        padding: 40px 0px;
+    }
+
+    .learn-more-main {
+        padding-left: 30px;
+        border-radius: 40px;
+    }
+
+    .mediqm-right {
+        width: 100%;
+    }
+
+    .ai-power-img-2 {
+        width: 35%;
+        right: -25px;
+        bottom: 30px;
+    }
+
+    .gap-ninety {
+        gap: 40px;
+    }
+
+    .learn-more-main {
+        gap: 15px;
+    }
+
+    .blog-news-section {
+        padding-top: 80px;
+    }
+
+    .blogs-contain {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .blogs-details-box {
+        padding: 15px;
+    }
+
+    .blogs-news-bottom .blogs-details-box:not(:first-child) {
+        flex-direction: column;
+    }
+
+    .blogs-img1 {
+        width: 100%;
+        padding-top: 68%;
+    }
+
+    .hero-platform {
+        aspect-ratio: 11 / 15;
+    }
+
+    .hero-banner-platform-main {
+        gap: 20px;
+        padding-bottom: 0px;
+    }
+
+    .hero-banner-platform-img {
+        width: 100%;
+    }
+
+    .gap-eighty {
+        gap: 30px;
+    }
+
+    .ai-power-img-3 {
+        width: 35%;
+        left: -20px;
+        bottom: 20px;
+    }
+
+    .admission-discharge-right,
+    .audit-managment-img,
+    .get-touch .learn-more-img {
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    .features-right {
+        width: 100%;
+        padding-top: 100%;
+    }
+
+    .ai-power-img-1 img,
+    .patient-care-img img {
+        border-radius: 40px;
+    }
+
+    .arrow {
+        padding-top: 30px;
+    }
+
+    section.hero-banner-section.swiper-container-initialized.swiper-container-vertical {
+        aspect-ratio: 10 / 12;
+    }
+
+    .blogs-news-btn .btn {
+        border-radius: 25px;
+        padding: 10px 24px;
+    }
+
+    .search-box {
+        width: 100%;
+    }
+
+    .career-details {
+        gap: 40px;
+    }
+
+    .learn-more-details {
+        padding: 25px 0px;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .choose-us-main {
+        padding: 30px 20px 0px 20px;
+    }
+
+    .choose-us-details,
+    .secure-reporting-contain {
+        padding: 18px;
+    }
+
+    .footer-section {
+        border-top-left-radius: 30px;
+        border-top-right-radius: 30px;
+    }
+
+    .profile-img img {
+        border-radius: 15px;
+    }
+
+    .container,
+    .max-container {
+        padding: 0px 20px;
+    }
+
+    .hero-banner-main {
+        padding-bottom: 20px;
+    }
+
+    .hero-banner-section {
+        aspect-ratio: 10 / 11;
+    }
+
+    .hero-banner-img {
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+    }
+
+    .learn-more-main {
+        padding-left: 20px;
+    }
+
+    .ai-power-img-2 {
+        right: -20px;
+        bottom: 20px;
+    }
+
+    .gap-ninety {
+        gap: 30px;
+    }
+
+    .btn {
+        padding: 6px 14px;
+        font-size: 12px;
+        width: 100%;
+    }
+
+    .apply-btn {
+        width: 100%;
+    }
+
+    .padding-bottom-one-twenty {
+        padding-bottom: 50px;
+    }
+
+    .career-details {
+        flex-direction: column;
+        gap: 10px;
+        border-radius: 15px;
+        padding: 15px;
+    }
+
+    .support-bottom {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .support-heading p {
+        text-align: center;
+    }
+
+    .contact-us-section,
+    .support-section {
+        padding-top: 90px;
+    }
+
+    .checkbox label {
+        font-weight: 400;
+        font-size: 14px;
+    }
+
+    .phone-input select {
+        width: 11%;
+    }
+
+    .blogs-news-btn .btn {
+        border-radius: 50px;
+        padding: 10px 26px;
+    }
+
+    .hero-platform {
+        aspect-ratio: 11 / 20;
+    }
+
+    .mobileicon.active span:nth-child(3) {
+        transform: rotate(-45deg) translate(7px, -10px);
+    }                             
+
+    .mobileicon.active span:nth-child(1) {
+        transform: rotate(45deg) translate(1px, 5px);
+    }
+
+    .blog-news-section {
+        padding-bottom: 35px;
+        padding-top: 70px;
+    }
+
+    .blogs-img-tab {
+        padding-top: 73.26%;
+    }
+
+    .data-analytics .heading-top {
+        padding: 34px 25px;
+    }
+
+    .innovation-solution {
+        padding-bottom: 40px;
+    }
+
+    .padding-top-one-twenty {
+        padding-top: 40px;
+    }
+
+    .choose-us {
+        padding-top: 40px;
+    }
+
+    .footer-main,
+    .footer-left {
+        gap: 15px;
+    }
+
+    section.hero-banner-section.swiper-container-initialized.swiper-container-vertical {
+        aspect-ratio: 10 / 17;
+    }
+
+    .get-touch .learn-more-main {
+        padding: 0px 30px;
+    }
+
+    .padding-both-one-twenty {
+        padding: 30px 0px;
+    }
+}
+
+@media screen and (max-width: 374px) {}
